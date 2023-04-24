@@ -1,9 +1,9 @@
 
 ![Screenshot_20230422-105811_Gallery](https://user-images.githubusercontent.com/112838111/234013022-68d84c33-7e84-4424-9e05-68cc361ed445.jpg)
 # Project Title: The Social Factor of Death in the Philippines
+![341536087_896160598123219_652033113987159648_n](https://user-images.githubusercontent.com/112838111/234029865-639ad034-2ed4-413a-979c-e0304b529b53.png)
 ## This repository is for our requirement in BAT404- Analytics Techniques and Tools(IT3203)
 ### Introduction
-![341536087_896160598123219_652033113987159648_n](https://user-images.githubusercontent.com/112838111/234029865-639ad034-2ed4-413a-979c-e0304b529b53.png)
 
 Health research is necessary in order for doctors and scientists to better understand and improve health. Research plays an important role in learning how to prevent and treat illnesses and has the potential to help improve care for people around the world. The Importance of Health Research like privacy, health research has high value to society. It can provide important information about disease trends and risk factors, outcomes of treatment or public health interventions, functional abilities, patterns of care, and health care costs and use[1].
 In the Philippines, the death rate is increasing every year. There are so many reasons why the rate continues to increase that if we consume it, it will have a huge impact on the country. One of these is the issue about Health. We know that health is one of the most important keys for us to be given a good and safe life, that our life can be comfortable with a simple compliance to our good. But if it is abused, it will be a great danger to our lives, it can also cause our body to suffer which may lead to death. This is the reason why health is a huge issue in everything, because it will also reflect in the statistics obtained by the Philippine Statistics Authority organizations that if the statistical data continues to climb in our country, it will have a big impact on identity.
