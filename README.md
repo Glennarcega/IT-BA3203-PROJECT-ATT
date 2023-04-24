@@ -21,5 +21,12 @@ To sum up, this analysis focuses on SDG 3, which is good health and well-being. 
 
 ### Problem Statement
 Identifying the highest cases of death in a specific region and raising awareness to avoid the disease.
-###Significance of the Study
+### Significance of the Study
 Health effects (or health impacts) are changes in health resulting from exposure to a source. Health effects are an important consideration in many areas, such as hygiene, pollution studies, occupational safety and health, ([nutrition]) and health sciences in general. Some of the major environmental sources of health effects are air pollution, water pollution, soil contamination, noise pollution and over-illumination.
+This research will assist individuals and society by allowing them to raise awareness and prevent disease. This initiative allows the community to gather information and will assist them in gaining more awareness.
+### Methods
+Studies on health and the rising death rate in the Philippines have added to the available empirical evidence and deepened our understanding of the subject. Therefore, carrying out empirical research is a suitable method for advancing and investigating new research. In order to draw a conclusion and offer better guidance, this concentrates on doing an analysis of information in the Philippines. Additionally, it will show the typical trend of death causes.
+### Expected Output
+Prior to making any assumptions, the project's objective is to identify the broad pattern in the data that will aid the researcher. When the analysis's findings are established and show a correlation between various factors, as well as when those findings are deteriorating, they can be utilized to disseminate preventative measures to lower the probability of dying from that cause. It can also aid in future research to develop a strong strategic plan.
+
+### REFERENCES
