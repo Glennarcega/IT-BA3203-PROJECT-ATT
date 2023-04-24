@@ -33,3 +33,13 @@ Prior to making any assumptions, the project's objective is to identify the broa
 ### REFERENCES
 1.[(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448258/?fbclid=IwAR0FuA1PBXavtCblrett3zFxdOFwalMLwPdS8HzITvDsoIGDQLarwbAF3Ck || Today’s Health Problems and Health Education - PMC (nih.gov)
 )]
+2.[(https://psa.gov.ph/vital-statistics/id/138794
+Philippine Statistics Authority | Republic of the Philippines (psa.gov.ph)
+)]
+3.[(https://d1wqtxts1xzle7.cloudfront.net/59814649/MH-0220190620-102965-1x34bnj-libre.pdf?
+MH-0220190620-102965-1x34bnj-libre.pdf (d1wqtxts1xzle7.cloudfront.net)
+http://bjp.rcpsych.org/cgi/pmidlookup?view=long&pmid=11059991
+)]
+4.[(https://en.wikipedia.org/wiki/Health_effect)]
+[(World Health Organization https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjF9dHg38L-AhXXRWwGHWb4AXoQFnoECAsQAQ&url=https%3A%2F%2Fwww.who.int%2F&usg=AOvVaw3w5WZMkYep0vzSNC95FZZ9
+)]
