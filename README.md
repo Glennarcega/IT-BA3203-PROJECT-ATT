@@ -1,8 +1,8 @@
 
 ![Screenshot_20230422-105811_Gallery](https://user-images.githubusercontent.com/112838111/234013022-68d84c33-7e84-4424-9e05-68cc361ed445.jpg)
 # Project Title: The Social Factor of Death in the Philippines
-![341536087_896160598123219_652033113987159648_n](https://user-images.githubusercontent.com/112838111/234029865-639ad034-2ed4-413a-979c-e0304b529b53.png)
 ## This repository is for our requirement in BAT404- Analytics Techniques and Tools(IT3203)
+![341536087_896160598123219_652033113987159648_n](https://user-images.githubusercontent.com/112838111/234029865-639ad034-2ed4-413a-979c-e0304b529b53.png)
 ### Introduction
 
 Health research is necessary in order for doctors and scientists to better understand and improve health. Research plays an important role in learning how to prevent and treat illnesses and has the potential to help improve care for people around the world. The Importance of Health Research like privacy, health research has high value to society. It can provide important information about disease trends and risk factors, outcomes of treatment or public health interventions, functional abilities, patterns of care, and health care costs and use[1].
