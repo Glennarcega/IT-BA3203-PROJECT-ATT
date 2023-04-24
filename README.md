@@ -31,3 +31,5 @@ Studies on health and the rising death rate in the Philippines have added to the
 Prior to making any assumptions, the project's objective is to identify the broad pattern in the data that will aid the researcher. When the analysis's findings are established and show a correlation between various factors, as well as when those findings are deteriorating, they can be utilized to disseminate preventative measures to lower the probability of dying from that cause. It can also aid in future research to develop a strong strategic plan.
 
 ### REFERENCES
+[(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448258/?fbclid=IwAR0FuA1PBXavtCblrett3zFxdOFwalMLwPdS8HzITvDsoIGDQLarwbAF3Ck || Today’s Health Problems and Health Education - PMC (nih.gov)
+)]
