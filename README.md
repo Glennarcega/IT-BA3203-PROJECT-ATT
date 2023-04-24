@@ -15,6 +15,7 @@ This kind of issue that the Philippines has is really disturbing because it is s
 [3]. According to the Philippines Statistics Authority the reported deaths in 2017 reached 579,237, a decrease of 0.5 percent than the previous year’s 582,183 deaths. This is equivalent to a crude death rate (CDR) of 5.5, or about six (6) persons per thousand population. In 2017, an average of 1,587 persons died daily. This translates to 66 deaths per hour or one (1) per minute. The number of deaths from 2008 to 2016 showed an increasing trend but slightly declined in 2017. The increase during the ten-year period is about a quarter, or 25.5 percent, from 461,581 in 2008 to 579,237 in 2017[3]..
 
 
+![E_SDG_goals_icons-individual-rgb-03](https://user-images.githubusercontent.com/112838111/234018385-14e65330-702d-4af9-bb13-7f024d1947bf.png)
 
 To sum up, this analysis focuses on SDG 3, which is good health and well-being. The purpose of this analysis is to determine the highest cause of death in a specific region in the Philippines. The dataset is from the Philippine Statistic Authority, which will conduct the analysis to procure the required yearly changes from 2006–2017. This study will be the evidence of whether the Filipino will truly care about herself.
 
