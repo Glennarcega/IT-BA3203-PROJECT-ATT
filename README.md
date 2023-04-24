@@ -20,3 +20,6 @@ This kind of issue that the Philippines has is really disturbing because it is s
 To sum up, this analysis focuses on SDG 3, which is good health and well-being. The purpose of this analysis is to determine the highest cause of death in a specific region in the Philippines. The dataset is from the Philippine Statistic Authority, which will conduct the analysis to procure the required yearly changes from 2006–2017. This study will be the evidence of whether the Filipino will truly care about herself.
 
 ### Problem Statement
+Identifying the highest cases of death in a specific region and raising awareness to avoid the disease.
+###Significance of the Study
+Health effects (or health impacts) are changes in health resulting from exposure to a source. Health effects are an important consideration in many areas, such as hygiene, pollution studies, occupational safety and health, ([nutrition]) and health sciences in general. Some of the major environmental sources of health effects are air pollution, water pollution, soil contamination, noise pollution and over-illumination.
